@@ -2,7 +2,8 @@
 
 -- NOTE --
 Although the game was initially supposed to be created in Arcade, I was unable to
-get it to work, and ultimately had to switch to PyGame instead.
+get it to work, and ultimately had to switch to PyGame instead. I have still uploaded
+the Arcade version, although it is incomplete.
 
 Game Description:
 This is a basic Chess Game using the PyGame library in Python. It provides a graphical interface for the player to engage in a game of chess on an standard 8x8 chessboard. The game features traditional chess pieces, including pawns, rooks, knights, bishops, queens, and kings, each with their unique movement rules. Players can make moves using the mouse, and the game checks for valid moves, checks, and checkmates as they play. The user can also save and load their a game.
